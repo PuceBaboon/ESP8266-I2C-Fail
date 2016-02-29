@@ -16,4 +16,7 @@ gratitude.
 Having said all of that, this repository contains the older, plain old "C" + Makefile version of the code.  Please understand that it is here as an example and nothing more.  I won't be developing it further.  I won't be accepting pull requests.  I won't be doing *anything* further with this branch at all.  It's dead.  Nailed to the perch.  Floating down the Styx.
 
 This repository contains code from others far more talented than me.  The original project used TuanPMT's MQTT for the ESP8266 (https://github.com/tuanpmt/esp_mqtt) as well as drivers from various sources (Richard A. Burton -  https://github.com/raburton/esp8266/tree/master/drivers,  EADF -  https://github.com/eadf/esp8266_i2c_master,   Zarya -
-https://github.com/zarya/esp8266_i2c_driver) and, of course, Espressif.  All of their code is inviolate and you should check the licences for each of the sources given above before re-usingany code.
+https://github.com/zarya/esp8266_i2c_driver) and, of course, Espressif.  All of their code is inviolate and you should check the licences for each of the sources given above before re-using any code.
+
+The included UnLicense licence refers to my hacked-up code, which is generally limited to the "user" directory.
+
