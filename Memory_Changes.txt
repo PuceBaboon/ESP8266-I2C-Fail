@@ -1,0 +1,9 @@
+Makefile ->
+	40000 -> 10000
+	
+eagle_6 ->
+	irom0_0_seg:	org = 0x40210000, len = 0x68000
+
+	
+include/user_config.h ->
+	3C -> 78
