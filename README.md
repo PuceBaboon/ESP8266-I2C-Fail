@@ -1,9 +1,9 @@
 # ESP8266-I2C-Fail
-An abandoned attempt at creating a DS3231/ESP8266/I2C project in standard "C" using the Espressif SDK
+An *abandoned* attempt at creating a DS3231/ESP8266/I2C project in standard "C" using the Espressif SDK
 
-##DS3231/ESP8266 I2C (Abandoned)
+**DS3231/ESP8266 I2C (_Abandoned_)**
 
-Big letters at the top, "Abandoned".
+Big letters at the top, "**Abandoned**".
 
 This code is only here because of requests from readers of the esp8266-hints blog (https://esp8266hints.wordpress.com/2015/06/04/sdk-i2c-code-todays-duh-story) who wanted to see real-world examples in all of their inglorious detail.
 
@@ -12,6 +12,8 @@ Since trying to get this version to work I have moved on to using the Arduino-ID
 are mapped this week, no going back (yet again!) into the updated SDK to find out what files Espressif (in their wisdom) haven't shipped with this version, or any of the other myriad of crap which seems to bog down even the simplest of
 projects for hours (or days) on end.  If you haven't guessed already, I'm a convert.  I still won't be buying an Arduino, but the folks who wrote and maintain the ESP8266 core for Arduino (https://github.com/esp8266/Arduino) have my undying
 gratitude.
+
+**Update** -- Even better than the Arduino IDE (especially for us CLI die-hards) is [PlatformIO](https://esp8266hints.wordpress.com/2016/08/10/platformio-the-esp8266-and-an-ancient-linux-version/).  Absolutely magic!  I very, very strongly recommend you try it.
 
 Having said all of that, this repository contains the older, plain old "C" + Makefile version of the code.  Please understand that it is here as an example and nothing more.  I won't be developing it further.  I won't be accepting pull requests.  I won't be doing *anything* further with this branch at all.  It's dead, Jim.  Nailed to the perch.  Floating down the Styx.
 
